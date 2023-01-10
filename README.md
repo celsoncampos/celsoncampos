@@ -31,4 +31,4 @@ I'm a developer fascinated with coding and figuring out how to solve deep proble
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<p><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></p>
