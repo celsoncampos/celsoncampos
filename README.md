@@ -22,7 +22,9 @@ I'm a developer fascinated with coding and figuring out how to solve deep proble
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devrun22/devrun22/main/Flutter-Dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devrun22/devrun22/blob/main/Dart-Dark.svg" width="36" height="36" alt="Express" /></a><a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devrun22/devrun22/blob/main/CSS.svg" width="36" height="36" alt="Express" /></a><a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devrun22/devrun22/blob/main/Firebase-Dark.svg" width="36" height="36" alt="Express" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devrun22/devrun22/blob/main/Unity-Dark.svg" width="36" height="36" alt="Unity3D" /></a>
 </p>
 
 ### Socials
