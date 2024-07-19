@@ -8,7 +8,7 @@ I'm a developer fascinated with coding and figuring out how to solve deep proble
 
 * 🌍  I'm based in Luanda, Angola
 * ✉️   You can contact me at [celsoncampos636@gmail.com](mailto:celsoncampos636@gmail.com)
-* 🚀  I'm currently working on [Sakidila]
+* 🚀  I'm currently working on [ITGest Angola]
 * 🧠  I'm learning Dart, and delving into Flutter for Augmented Reality software development [ARkit, ARCore]
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  My favorite sport is chess
