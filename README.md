@@ -6,9 +6,9 @@ Software Developer
 
 I'm a developer fascinated with coding and figuring out how to solve deep problems using cutting-edge technology. My interest is front-end, back-end and mobile development, making applications that can impact community life.
 
-* 🌍  I'm based in Luanda, Angola
+* 🌍  I'm based in Aveiro, Portugal
 * ✉️   You can contact me at [celsoncampos636@gmail.com](mailto:celsoncampos636@gmail.com)
-* 🚀  I'm currently working on [ITGest Angola]
+* 🚀  I'm currently working on [Renoult by Luza Group]
 * 🧠  I'm learning Dart, and delving into Flutter for Augmented Reality software development [ARkit, ARCore]
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  My favorite sport is chess
